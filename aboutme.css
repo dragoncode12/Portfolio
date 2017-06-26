@@ -1,15 +1,14 @@
 body {
-  background-image: url("Dragon picture.jpg");
-    
+  background-image: url("Dragon picture.jpg");   
 }
 h1 {
-  color:gray;
+  color:dark gray;
   text-align:center;
   font-family:calligrapher;
   font-size:300%;
 }
 p {
-  color:white;
+  color:gray;
   text-align:left;
   font-family:arial;
   font-size:160%;
